@@ -24,6 +24,16 @@ If a field is multi-valuated, a pipe "|" will be the separator.
 * Put the two separators as variables.
 * Find a way to factorise the 1 to n ralations, in order not to repeat some piece of code.
 * Extract in a conf file the data to extract (into a json file ?).
+* Dynamically collect the paging.
+
+
+## Keywords
+Data
+Javascript
+Node.js
+Parsing
+Sandcrawler
+Scrapping
 
 
 ## Licenses
