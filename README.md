@@ -2,10 +2,10 @@
 Scrape data from www.re3data.org
 
 ## Install dependencies
-npm install
+```npm install```
 
 ## Run script
-node re3data.js
+```node re3data.js```
 
 ## Results files
 All the simple results as stored into the re3data.csv generated file.
