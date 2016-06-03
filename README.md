@@ -28,12 +28,12 @@ If a field is multi-valuated, a pipe "|" will be the separator.
 
 
 ## Keywords
-Data
-Javascript
-Node.js
-Parsing
-Sandcrawler
-Scrapping
+* Data
+* Javascript
+* Node.js
+* Parsing
+* Sandcrawler
+* Scrapping
 
 
 ## Licenses
